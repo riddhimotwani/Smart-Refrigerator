@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['1', '2', '3', 'apple', 'cucumber', 'custard_apple', 'onion', 'orange', 'pomegranate', 'potato', 'tomato']
+
+roboflow:
+  workspace: bhavesh-tanwani
+  project: fruit_veg_project-qz0aw
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bhavesh-tanwani/fruit_veg_project-qz0aw/dataset/1

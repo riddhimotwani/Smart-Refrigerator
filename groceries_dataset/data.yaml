@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 105
+names: ['Agnesi Polenta', 'Almond Milk', 'Apple', 'Artichoke', 'Asparagus', 'Aubergine', 'Avocado', 'Bacon', 'Banana', 'Basmati Rice', 'Bazlama', 'Beans', 'Beetroot', 'Bell Peppers', 'Black Berries', 'Blue Berries', 'Book', 'Bread', 'Broccoli', 'Brussel Sprouts', 'Butter', 'Cabbage', 'Calvin Klein', 'Cantaloupe', 'Carrot', 'Cauliflower', 'Cereal', 'Cerealbox', 'Cheese', 'Chillies', 'Chocolate', 'Clementine', 'Coffee', 'Corn', 'Courgates', 'Cream', 'Cucumber', 'Dabur Honey', 'Dates', 'Detergent', 'Dr Pepper', 'Drinks', 'Egg Plant', 'Eggs', 'Fish', 'Flour', 'Galia', 'Ginger', 'Grapes', 'Green bell pepper', 'Groats', 'Ground meat', 'Ham', 'Heavy cream', 'Honey Dew', 'Jack Daniels', 'Juice', 'Lemon', 'Lettuce', 'Lime', 'Mango', 'Meat', 'Milk', 'Mushroom', 'Nectarine', 'Nespresso', 'Oil', 'Olives', 'Onion', 'Orange', 'Paco Rabanne', 'Parsley', 'Patanjali Honey', 'Peach', 'Peas', 'Pineapple', 'Pixel 4', 'Planet Oat Original', 'Plum', 'Potatoes', 'Rasp Berries', 'Red bell pepper', 'Red onion', 'Salad', 'Samsung S20', 'Sauce', 'Sausages', 'Shrimp', 'Spinach', 'Spring onion', 'Squash', 'Straw Berry', 'Sugar', 'Sweet potato', 'Sweetcorn', 'Tida', 'Tofu', 'Tomato Paste', 'Tomatoes', 'Tropicana', 'Water', 'Watermelon', 'Yellow bell pepper', 'Yoghurt', 'Zuccini']
+
+roboflow:
+  workspace: bhavesh-tanwani
+  project: groceries-dataset-detection-5ctqg-o1o6s
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/bhavesh-tanwani/groceries-dataset-detection-5ctqg-o1o6s/dataset/1

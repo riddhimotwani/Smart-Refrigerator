@@ -1,0 +1,19 @@
+train: train/images
+val: valid/images
+test: test/images
+nc: 14
+names:
+- apple
+- banana
+- orange
+- tomato
+- potato
+- onion
+- cucumber
+- carrot
+- egg
+- milk
+- cheese
+- broccoli
+- bell_pepper
+- mushroom
